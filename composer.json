@@ -1,0 +1,23 @@
+{
+    "name": "jayding/chinese-holiday",
+    "description": "check whether it is a working day",
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "php": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jayding",
+            "email": "348058841@qq.com"
+        }
+    ],
+   "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Holiday\\": "src/"
+        }
+    }
+}
