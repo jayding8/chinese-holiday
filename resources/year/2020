@@ -1,0 +1,1621 @@
+array (
+  'code' => 0,
+  'holiday' => 
+  array (
+    '01-01' => 
+    array (
+      'holiday' => true,
+      'name' => '元旦',
+      'wage' => 3,
+      'date' => '2020-01-01',
+    ),
+    '01-04' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-01-04',
+    ),
+    '01-05' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-01-05',
+    ),
+    '01-11' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-01-11',
+    ),
+    '01-12' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-01-12',
+    ),
+    '01-18' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-01-18',
+    ),
+    '01-19' => 
+    array (
+      'holiday' => false,
+      'name' => '春节前调休',
+      'after' => false,
+      'wage' => 1,
+      'target' => '春节',
+      'date' => '2020-01-19',
+    ),
+    '01-24' => 
+    array (
+      'holiday' => true,
+      'name' => '除夕',
+      'wage' => 2,
+      'date' => '2020-01-24',
+    ),
+    '01-25' => 
+    array (
+      'holiday' => true,
+      'name' => '初一',
+      'wage' => 3,
+      'date' => '2020-01-25',
+    ),
+    '01-26' => 
+    array (
+      'holiday' => true,
+      'name' => '初二',
+      'wage' => 3,
+      'date' => '2020-01-26',
+    ),
+    '01-27' => 
+    array (
+      'holiday' => true,
+      'name' => '初三',
+      'wage' => 3,
+      'date' => '2020-01-27',
+    ),
+    '01-28' => 
+    array (
+      'holiday' => true,
+      'name' => '初四',
+      'wage' => 2,
+      'date' => '2020-01-28',
+    ),
+    '01-29' => 
+    array (
+      'holiday' => true,
+      'name' => '初五',
+      'wage' => 2,
+      'date' => '2020-01-29',
+    ),
+    '01-30' => 
+    array (
+      'holiday' => true,
+      'name' => '初六',
+      'wage' => 2,
+      'date' => '2020-01-30',
+    ),
+    '01-31' => 
+    array (
+      'holiday' => true,
+      'name' => '初七',
+      'wage' => 2,
+      'date' => '2020-01-31',
+    ),
+    '02-01' => 
+    array (
+      'holiday' => true,
+      'name' => '初八',
+      'wage' => 2,
+      'date' => '2020-02-01',
+    ),
+    '02-02' => 
+    array (
+      'holiday' => true,
+      'name' => '初九',
+      'wage' => 2,
+      'date' => '2020-02-02',
+    ),
+    '02-08' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-02-08',
+    ),
+    '02-09' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-02-09',
+    ),
+    '02-15' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-02-15',
+    ),
+    '02-16' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-02-16',
+    ),
+    '02-22' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-02-22',
+    ),
+    '02-23' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-02-23',
+    ),
+    '02-29' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-02-29',
+    ),
+    '03-01' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-03-01',
+    ),
+    '03-07' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-03-07',
+    ),
+    '03-08' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-03-08',
+    ),
+    '03-14' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-03-14',
+    ),
+    '03-15' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-03-15',
+    ),
+    '03-21' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-03-21',
+    ),
+    '03-22' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-03-22',
+    ),
+    '03-28' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-03-28',
+    ),
+    '03-29' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-03-29',
+    ),
+    '04-04' => 
+    array (
+      'holiday' => true,
+      'name' => '清明节',
+      'wage' => 3,
+      'date' => '2020-04-04',
+    ),
+    '04-05' => 
+    array (
+      'holiday' => true,
+      'name' => '清明节',
+      'wage' => 2,
+      'date' => '2020-04-05',
+    ),
+    '04-06' => 
+    array (
+      'holiday' => true,
+      'name' => '清明节',
+      'wage' => 2,
+      'date' => '2020-04-06',
+    ),
+    '04-11' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-04-11',
+    ),
+    '04-12' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-04-12',
+    ),
+    '04-18' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-04-18',
+    ),
+    '04-19' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-04-19',
+    ),
+    '04-25' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-04-25',
+    ),
+    '04-26' => 
+    array (
+      'holiday' => false,
+      'name' => '劳动节前调休',
+      'after' => false,
+      'wage' => 1,
+      'target' => '劳动节',
+      'date' => '2020-04-26',
+    ),
+    '05-01' => 
+    array (
+      'holiday' => true,
+      'name' => '劳动节',
+      'wage' => 3,
+      'date' => '2020-05-01',
+    ),
+    '05-02' => 
+    array (
+      'holiday' => true,
+      'name' => '劳动节',
+      'wage' => 2,
+      'date' => '2020-05-02',
+    ),
+    '05-03' => 
+    array (
+      'holiday' => true,
+      'name' => '劳动节',
+      'wage' => 2,
+      'date' => '2020-05-03',
+    ),
+    '05-04' => 
+    array (
+      'holiday' => true,
+      'name' => '劳动节',
+      'wage' => 2,
+      'date' => '2020-05-04',
+    ),
+    '05-05' => 
+    array (
+      'holiday' => true,
+      'name' => '劳动节',
+      'wage' => 2,
+      'date' => '2020-05-05',
+    ),
+    '05-09' => 
+    array (
+      'holiday' => false,
+      'name' => '劳动节后调休',
+      'after' => true,
+      'wage' => 1,
+      'target' => '劳动节',
+      'date' => '2020-05-09',
+    ),
+    '05-10' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-05-10',
+    ),
+    '05-16' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-05-16',
+    ),
+    '05-17' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-05-17',
+    ),
+    '05-23' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-05-23',
+    ),
+    '05-24' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-05-24',
+    ),
+    '05-30' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-05-30',
+    ),
+    '05-31' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-05-31',
+    ),
+    '06-06' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-06-06',
+    ),
+    '06-07' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-06-07',
+    ),
+    '06-13' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-06-13',
+    ),
+    '06-14' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-06-14',
+    ),
+    '06-20' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-06-20',
+    ),
+    '06-21' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-06-21',
+    ),
+    '06-25' => 
+    array (
+      'holiday' => true,
+      'name' => '端午节',
+      'wage' => 3,
+      'date' => '2020-06-25',
+    ),
+    '06-26' => 
+    array (
+      'holiday' => true,
+      'name' => '端午节',
+      'wage' => 2,
+      'date' => '2020-06-26',
+    ),
+    '06-27' => 
+    array (
+      'holiday' => true,
+      'name' => '端午节',
+      'wage' => 2,
+      'date' => '2020-06-27',
+    ),
+    '06-28' => 
+    array (
+      'holiday' => false,
+      'after' => true,
+      'name' => '端午节后调休',
+      'wage' => 1,
+      'target' => '端午节',
+      'date' => '2020-06-28',
+    ),
+    '07-04' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-07-04',
+    ),
+    '07-05' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-07-05',
+    ),
+    '07-11' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-07-11',
+    ),
+    '07-12' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-07-12',
+    ),
+    '07-18' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-07-18',
+    ),
+    '07-19' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-07-19',
+    ),
+    '07-25' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-07-25',
+    ),
+    '07-26' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-07-26',
+    ),
+    '08-01' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-08-01',
+    ),
+    '08-02' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-08-02',
+    ),
+    '08-08' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-08-08',
+    ),
+    '08-09' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-08-09',
+    ),
+    '08-15' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-08-15',
+    ),
+    '08-16' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-08-16',
+    ),
+    '08-22' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-08-22',
+    ),
+    '08-23' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-08-23',
+    ),
+    '08-29' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-08-29',
+    ),
+    '08-30' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-08-30',
+    ),
+    '09-05' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-09-05',
+    ),
+    '09-06' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-09-06',
+    ),
+    '09-12' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-09-12',
+    ),
+    '09-13' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-09-13',
+    ),
+    '09-19' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-09-19',
+    ),
+    '09-20' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-09-20',
+    ),
+    '09-26' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-09-26',
+    ),
+    '09-27' => 
+    array (
+      'holiday' => false,
+      'after' => false,
+      'name' => '国庆节前调休',
+      'wage' => 1,
+      'target' => '国庆节',
+      'date' => '2020-09-27',
+    ),
+    '10-01' => 
+    array (
+      'holiday' => true,
+      'name' => '中秋节',
+      'wage' => 3,
+      'date' => '2020-10-01',
+    ),
+    '10-02' => 
+    array (
+      'holiday' => true,
+      'name' => '国庆节',
+      'wage' => 3,
+      'date' => '2020-10-02',
+      'rest' => 1,
+    ),
+    '10-03' => 
+    array (
+      'holiday' => true,
+      'name' => '国庆节',
+      'wage' => 3,
+      'date' => '2020-10-03',
+    ),
+    '10-04' => 
+    array (
+      'holiday' => true,
+      'name' => '国庆节',
+      'wage' => 2,
+      'date' => '2020-10-04',
+    ),
+    '10-05' => 
+    array (
+      'holiday' => true,
+      'name' => '国庆节',
+      'wage' => 2,
+      'date' => '2020-10-05',
+    ),
+    '10-06' => 
+    array (
+      'holiday' => true,
+      'name' => '国庆节',
+      'wage' => 2,
+      'date' => '2020-10-06',
+    ),
+    '10-07' => 
+    array (
+      'holiday' => true,
+      'name' => '国庆节',
+      'wage' => 2,
+      'date' => '2020-10-07',
+    ),
+    '10-08' => 
+    array (
+      'holiday' => true,
+      'name' => '国庆节',
+      'wage' => 2,
+      'date' => '2020-10-08',
+    ),
+    '10-10' => 
+    array (
+      'holiday' => false,
+      'name' => '国庆节后调休',
+      'after' => true,
+      'wage' => 1,
+      'target' => '国庆节',
+      'date' => '2020-10-10',
+    ),
+    '10-11' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-10-11',
+    ),
+    '10-17' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-10-17',
+    ),
+    '10-18' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-10-18',
+    ),
+    '10-24' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-10-24',
+    ),
+    '10-25' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-10-25',
+    ),
+    '10-31' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-10-31',
+    ),
+    '11-01' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-11-01',
+    ),
+    '11-07' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-11-07',
+    ),
+    '11-08' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-11-08',
+    ),
+    '11-14' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-11-14',
+    ),
+    '11-15' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-11-15',
+    ),
+    '11-21' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-11-21',
+    ),
+    '11-22' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-11-22',
+    ),
+    '11-28' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-11-28',
+    ),
+    '11-29' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-11-29',
+    ),
+    '12-05' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-12-05',
+    ),
+    '12-06' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-12-06',
+    ),
+    '12-12' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-12-12',
+    ),
+    '12-13' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-12-13',
+    ),
+    '12-19' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-12-19',
+    ),
+    '12-20' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-12-20',
+    ),
+    '12-26' => 
+    array (
+      'holiday' => true,
+      'name' => '周六',
+      'wage' => 2,
+      'date' => '2020-12-26',
+    ),
+    '12-27' => 
+    array (
+      'holiday' => true,
+      'name' => '周日',
+      'wage' => 2,
+      'date' => '2020-12-27',
+    ),
+  ),
+  'type' => 
+  array (
+    '2020-01-01' => 
+    array (
+      'type' => 2,
+      'name' => '元旦',
+      'week' => 3,
+    ),
+    '2020-01-04' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-01-05' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-01-11' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-01-12' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-01-18' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-01-19' => 
+    array (
+      'type' => 3,
+      'name' => '春节前调休',
+      'week' => 7,
+    ),
+    '2020-01-24' => 
+    array (
+      'type' => 2,
+      'name' => '除夕',
+      'week' => 5,
+    ),
+    '2020-01-25' => 
+    array (
+      'type' => 2,
+      'name' => '初一',
+      'week' => 6,
+    ),
+    '2020-01-26' => 
+    array (
+      'type' => 2,
+      'name' => '初二',
+      'week' => 7,
+    ),
+    '2020-01-27' => 
+    array (
+      'type' => 2,
+      'name' => '初三',
+      'week' => 1,
+    ),
+    '2020-01-28' => 
+    array (
+      'type' => 2,
+      'name' => '初四',
+      'week' => 2,
+    ),
+    '2020-01-29' => 
+    array (
+      'type' => 2,
+      'name' => '初五',
+      'week' => 3,
+    ),
+    '2020-01-30' => 
+    array (
+      'type' => 2,
+      'name' => '初六',
+      'week' => 4,
+    ),
+    '2020-01-31' => 
+    array (
+      'type' => 2,
+      'name' => '初七',
+      'week' => 5,
+    ),
+    '2020-02-01' => 
+    array (
+      'type' => 2,
+      'name' => '初八',
+      'week' => 6,
+    ),
+    '2020-02-02' => 
+    array (
+      'type' => 2,
+      'name' => '初九',
+      'week' => 7,
+    ),
+    '2020-02-08' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-02-09' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-02-15' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-02-16' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-02-22' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-02-23' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-02-29' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-03-01' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-03-07' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-03-08' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-03-14' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-03-15' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-03-21' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-03-22' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-03-28' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-03-29' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-04-04' => 
+    array (
+      'type' => 2,
+      'name' => '清明节',
+      'week' => 6,
+    ),
+    '2020-04-05' => 
+    array (
+      'type' => 2,
+      'name' => '清明节',
+      'week' => 7,
+    ),
+    '2020-04-06' => 
+    array (
+      'type' => 2,
+      'name' => '清明节',
+      'week' => 1,
+    ),
+    '2020-04-11' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-04-12' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-04-18' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-04-19' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-04-25' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-04-26' => 
+    array (
+      'type' => 3,
+      'name' => '劳动节前调休',
+      'week' => 7,
+    ),
+    '2020-05-01' => 
+    array (
+      'type' => 2,
+      'name' => '劳动节',
+      'week' => 5,
+    ),
+    '2020-05-02' => 
+    array (
+      'type' => 2,
+      'name' => '劳动节',
+      'week' => 6,
+    ),
+    '2020-05-03' => 
+    array (
+      'type' => 2,
+      'name' => '劳动节',
+      'week' => 7,
+    ),
+    '2020-05-04' => 
+    array (
+      'type' => 2,
+      'name' => '劳动节',
+      'week' => 1,
+    ),
+    '2020-05-05' => 
+    array (
+      'type' => 2,
+      'name' => '劳动节',
+      'week' => 2,
+    ),
+    '2020-05-09' => 
+    array (
+      'type' => 3,
+      'name' => '劳动节后调休',
+      'week' => 6,
+    ),
+    '2020-05-10' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-05-16' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-05-17' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-05-23' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-05-24' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-05-30' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-05-31' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-06-06' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-06-07' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-06-13' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-06-14' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-06-20' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-06-21' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-06-25' => 
+    array (
+      'type' => 2,
+      'name' => '端午节',
+      'week' => 4,
+    ),
+    '2020-06-26' => 
+    array (
+      'type' => 2,
+      'name' => '端午节',
+      'week' => 5,
+    ),
+    '2020-06-27' => 
+    array (
+      'type' => 2,
+      'name' => '端午节',
+      'week' => 6,
+    ),
+    '2020-06-28' => 
+    array (
+      'type' => 3,
+      'name' => '端午节后调休',
+      'week' => 7,
+    ),
+    '2020-07-04' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-07-05' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-07-11' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-07-12' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-07-18' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-07-19' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-07-25' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-07-26' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-08-01' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-08-02' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-08-08' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-08-09' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-08-15' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-08-16' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-08-22' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-08-23' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-08-29' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-08-30' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-09-05' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-09-06' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-09-12' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-09-13' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-09-19' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-09-20' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-09-26' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-09-27' => 
+    array (
+      'type' => 3,
+      'name' => '国庆节前调休',
+      'week' => 7,
+    ),
+    '2020-10-01' => 
+    array (
+      'type' => 2,
+      'name' => '中秋节',
+      'week' => 4,
+    ),
+    '2020-10-02' => 
+    array (
+      'type' => 2,
+      'name' => '国庆节',
+      'week' => 5,
+    ),
+    '2020-10-03' => 
+    array (
+      'type' => 2,
+      'name' => '国庆节',
+      'week' => 6,
+    ),
+    '2020-10-04' => 
+    array (
+      'type' => 2,
+      'name' => '国庆节',
+      'week' => 7,
+    ),
+    '2020-10-05' => 
+    array (
+      'type' => 2,
+      'name' => '国庆节',
+      'week' => 1,
+    ),
+    '2020-10-06' => 
+    array (
+      'type' => 2,
+      'name' => '国庆节',
+      'week' => 2,
+    ),
+    '2020-10-07' => 
+    array (
+      'type' => 2,
+      'name' => '国庆节',
+      'week' => 3,
+    ),
+    '2020-10-08' => 
+    array (
+      'type' => 2,
+      'name' => '国庆节',
+      'week' => 4,
+    ),
+    '2020-10-10' => 
+    array (
+      'type' => 3,
+      'name' => '国庆节后调休',
+      'week' => 6,
+    ),
+    '2020-10-11' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-10-17' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-10-18' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-10-24' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-10-25' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-10-31' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-11-01' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-11-07' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-11-08' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-11-14' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-11-15' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-11-21' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-11-22' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-11-28' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-11-29' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-12-05' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-12-06' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-12-12' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-12-13' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-12-19' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-12-20' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+    '2020-12-26' => 
+    array (
+      'type' => 1,
+      'name' => '周六',
+      'week' => 6,
+    ),
+    '2020-12-27' => 
+    array (
+      'type' => 1,
+      'name' => '周日',
+      'week' => 7,
+    ),
+  ),
+)
