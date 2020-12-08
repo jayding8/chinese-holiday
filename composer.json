@@ -3,7 +3,7 @@
     "description": "check whether it is a working day",
     "require": {
         "php": "^7.0",
-        "guzzlehttp/guzzle": "7.0.0"
+        "guzzlehttp/guzzle": "^7.0.0"
     },
     "require-dev": {
         "php": "^7.0"
