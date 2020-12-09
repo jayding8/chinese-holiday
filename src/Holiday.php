@@ -79,7 +79,7 @@ class Holiday
         $filename = RESOURCE_DIR . 'resources/' . $type . '/' . $this->$type;
         if (file_exists($filename)) {
             $data = file_get_contents($filename);
-            $data = json_decode($data);
+            $data = json_decode($data, 1);
         } else {
             $data = $this->getSourceData($type);
         }
