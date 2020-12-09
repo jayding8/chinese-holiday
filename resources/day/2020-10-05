@@ -1,16 +1,1 @@
-array (
-  'code' => 0,
-  'type' => 
-  array (
-    'type' => 2,
-    'name' => '国庆节',
-    'week' => 1,
-  ),
-  'holiday' => 
-  array (
-    'holiday' => true,
-    'name' => '国庆节',
-    'wage' => 2,
-    'date' => '2020-10-05',
-  ),
-)
+{"code":0,"type":{"type":2,"name":"国庆节","week":1},"holiday":{"holiday":true,"name":"国庆节","wage":2,"date":"2020-10-05"}}

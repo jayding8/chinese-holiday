@@ -79,6 +79,7 @@ class Holiday
         $filename = RESOURCE_DIR . 'resources/' . $type . '/' . $this->$type;
         if (file_exists($filename)) {
             $data = file_get_contents($filename);
+            $data = json_decode($data);
         } else {
             $data = $this->getSourceData($type);
         }
@@ -94,7 +95,7 @@ class Holiday
         $result = json_decode($result->getBody(), 1);
         $return = [];
         if ($result['code'] == 0) {
-            file_put_contents(RESOURCE_DIR . 'resources/' . $type . '/' . $this->$type, var_export($result, 1));
+            file_put_contents(RESOURCE_DIR . 'resources/' . $type . '/' . $this->$type, json_encode($result, JSON_UNESCAPED_UNICODE));
             $return = $result;
         }
         return $return;
